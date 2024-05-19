@@ -1,10 +1,10 @@
 # portfolio.github.io
 
-#data analyst 
+###data analyst 
 
-#Education
+###Education
 CErtification as data Analyst by Coderhouse 
 
-#work experience
+###work experience
 
-#
+###Projects
