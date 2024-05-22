@@ -1,13 +1,13 @@
 # portfolio.github.io
 
 # Data analyst
-
+#### Technical Skills: SQlServer, MySQL, Power BI, Google Labs, Apache Airflow, Python
 ### Education
 2023 Certification as data Analyst by Coderhouse 
-2024-2026 Tecnician in Development by TECLAB Institute
+2024-2026 Associate Degree in Development by TECLAB Institute
 
 ### Work experience
-rupo Quijada
+Data Analyst -Power BI administrator @Grupo Quijada (November 2023-present)
 About the grooup:
 
 Rol:
