@@ -15,4 +15,4 @@ Rol:
 Tasks:
 
 ### Projects
-![Proyectos en Grupo Quijada](./assets/Project Presentation _ The Conference Room (Community)(4).png)
+![Proyectos en Grupo Quijada](./assets/Project Presentation _ The Conference Room (Community)(4)(1).png)
